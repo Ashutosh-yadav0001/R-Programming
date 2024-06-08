@@ -1,6 +1,3 @@
-Absolutely, here's a concise version:
-
----
 
 # R Programming Course Assignments
 
